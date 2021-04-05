@@ -1,0 +1,170 @@
+body{
+    background-color: #262626;
+    font-family: 'Nunito', sans-serif !important;
+    font-family: 400 !important;
+    letter-spacing: 1.5px;
+    color: white;
+}
+
+.purple{
+    background-color: #A65EA6;
+    width: 50%;
+}
+.background-black{
+    background-color: #262626 !important;
+}
+
+.font-nunito-bold{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    color: white;
+    letter-spacing: 1.2px;
+}
+.purple-button{
+    background-color: #262626 !important ;
+    border-color: #b375b0 !important;
+    color:  white;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600 ;
+    letter-spacing: 1.2px;
+}
+.form-control:focus {
+    border-color: #b375b0 ;
+    box-shadow: none ;
+  }
+  
+.purple-button:hover{
+    background-color: #b375b0 !important;
+}
+.border-bottom-purple{
+    border-bottom: 2px solid #b375b0;
+}
+
+.border-top-purple{
+    border-top: 2px solid #b375b0;
+}
+
+
+
+.card{
+    border-radius: 20px;
+    color: white;
+    background-color: #262626; 
+    border: 2px solid  #b375b0 ;
+    letter-spacing: 2px;
+    transition: ease-in 0.3s;
+    cursor: pointer;
+}
+
+.card:hover{
+    background-color: #b375b0 ;
+}
+
+.pokemon-image{
+    padding: 10% ;
+
+}
+
+.poison{
+    background-color: #A65EA6;
+   
+}
+
+
+.badge{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.grass{
+    background-color: #80C840;
+}
+
+.fire{
+    background-color: #EB5102;
+}
+
+.flying{
+    background-color: #A1B4F4;
+}
+
+.water{
+    background-color: #41AAFD;
+}
+
+.bug{
+    background-color: #ADB520;
+}
+
+.normal {
+    background-color: #C3BEB3;
+}
+
+.electric{
+    background-color: #F8B715 ;
+}
+
+.rock{
+    background-color: #B9A157;
+}
+
+.dark{
+    background-color: #443529;
+}
+
+.fairy{
+    background-color: #F3B1F1;
+}
+
+.ground{
+    background-color: #D5B45A;
+}
+
+.steel{
+    background-color:#B2B2BE ;
+}
+
+.dragon{
+    background-color:#705ECA ;
+}
+
+.fighting{
+    background-color: #772F1B;
+}
+
+.ghost{
+    background-color: #5E60AB;
+}
+
+.ice{
+    background-color: #6CD3F2;
+}
+
+.psychic{
+    background-color: #EB487F;
+}
+
+.page-link{
+    background-color: #262626 !important;
+    border-color:  #A65EA6 ;
+    color: white;
+    transition: ease-in 0.3s;
+    text-decoration: none;
+    outline: none !important;
+    box-shadow: none !important;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 500 ;
+}
+
+.page-link:hover{
+    background-color: #A65EA6 !important;
+    color: white !important;
+    border-color:  #A65EA6 !important;
+}
+
+.page-link:active{
+    outline: none !important;
+    box-shadow: none;
+}
